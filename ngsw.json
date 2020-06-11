@@ -1,0 +1,96 @@
+{
+  "configVersion": 1,
+  "timestamp": 1591856953327,
+  "index": "https://anji0302.github.io/simple-games/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://anji0302.github.io/simple-games/5-es2015.773c946cc10e5147852a.js",
+        "https://anji0302.github.io/simple-games/5-es5.773c946cc10e5147852a.js",
+        "https://anji0302.github.io/simple-games/6-es2015.cdb72e570d696d1f4a96.js",
+        "https://anji0302.github.io/simple-games/6-es5.cdb72e570d696d1f4a96.js",
+        "https://anji0302.github.io/simple-games/7-es2015.fd622fe3a272cb43a733.js",
+        "https://anji0302.github.io/simple-games/7-es5.fd622fe3a272cb43a733.js",
+        "https://anji0302.github.io/simple-games/favicon.ico",
+        "https://anji0302.github.io/simple-games/index.html",
+        "https://anji0302.github.io/simple-games/main-es2015.1a07ae2ee433617fe2a1.js",
+        "https://anji0302.github.io/simple-games/main-es5.1a07ae2ee433617fe2a1.js",
+        "https://anji0302.github.io/simple-games/manifest.webmanifest",
+        "https://anji0302.github.io/simple-games/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "https://anji0302.github.io/simple-games/polyfills-es5.1fd9b76218eca8053895.js",
+        "https://anji0302.github.io/simple-games/runtime-es2015.3d8ec55ffdc5e40c6512.js",
+        "https://anji0302.github.io/simple-games/runtime-es5.3d8ec55ffdc5e40c6512.js",
+        "https://anji0302.github.io/simple-games/styles.42d853adc479323176e9.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://anji0302.github.io/simple-games/assets/bootstrap.css",
+        "https://anji0302.github.io/simple-games/assets/icons/icon-128x128.png",
+        "https://anji0302.github.io/simple-games/assets/icons/icon-144x144.png",
+        "https://anji0302.github.io/simple-games/assets/icons/icon-152x152.png",
+        "https://anji0302.github.io/simple-games/assets/icons/icon-192x192.png",
+        "https://anji0302.github.io/simple-games/assets/icons/icon-384x384.png",
+        "https://anji0302.github.io/simple-games/assets/icons/icon-512x512.png",
+        "https://anji0302.github.io/simple-games/assets/icons/icon-72x72.png",
+        "https://anji0302.github.io/simple-games/assets/icons/icon-96x96.png",
+        "https://anji0302.github.io/simple-games/assets/scss/_variables.scss"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://anji0302.github.io/simple-games/5-es2015.773c946cc10e5147852a.js": "1355dfb21aedf832bf7367c96ecebc20891ee747",
+    "https://anji0302.github.io/simple-games/5-es5.773c946cc10e5147852a.js": "4bd997659cfc60e0ca731b5b088821cd3c58f24f",
+    "https://anji0302.github.io/simple-games/6-es2015.cdb72e570d696d1f4a96.js": "e2901a48c7a595b9c5f26f956eb07a1fc4bc99ae",
+    "https://anji0302.github.io/simple-games/6-es5.cdb72e570d696d1f4a96.js": "95dd5a0c33fa7b0f360a0c09e93b2d6c42344f9d",
+    "https://anji0302.github.io/simple-games/7-es2015.fd622fe3a272cb43a733.js": "6eee64efe2b047dab7dd2615f022b35e0032278a",
+    "https://anji0302.github.io/simple-games/7-es5.fd622fe3a272cb43a733.js": "ec7f5ad3b7d0ba684789254eb094b919634599fc",
+    "https://anji0302.github.io/simple-games/assets/bootstrap.css": "85b2a359f199b4fa29cc5f75a7a9dd3f39a00fa7",
+    "https://anji0302.github.io/simple-games/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://anji0302.github.io/simple-games/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://anji0302.github.io/simple-games/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://anji0302.github.io/simple-games/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://anji0302.github.io/simple-games/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://anji0302.github.io/simple-games/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://anji0302.github.io/simple-games/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://anji0302.github.io/simple-games/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://anji0302.github.io/simple-games/assets/scss/_variables.scss": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://anji0302.github.io/simple-games/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://anji0302.github.io/simple-games/index.html": "1b19af1eb815634f5bdab2a1e3492375ead61026",
+    "https://anji0302.github.io/simple-games/main-es2015.1a07ae2ee433617fe2a1.js": "0c511bb355ffdfc9440b15048f036a2ebc482766",
+    "https://anji0302.github.io/simple-games/main-es5.1a07ae2ee433617fe2a1.js": "fc15b64038051b264b6a8e68ba2485795080b3a7",
+    "https://anji0302.github.io/simple-games/manifest.webmanifest": "2e04ba5954fb80e2424300b29bf32c95c60e8d15",
+    "https://anji0302.github.io/simple-games/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://anji0302.github.io/simple-games/polyfills-es5.1fd9b76218eca8053895.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "https://anji0302.github.io/simple-games/runtime-es2015.3d8ec55ffdc5e40c6512.js": "5bb7a9d027e91fbdc1d502a4ca69f355d1fcbb7a",
+    "https://anji0302.github.io/simple-games/runtime-es5.3d8ec55ffdc5e40c6512.js": "36a7739dc67de6af8442d4b6c88f64267381279f",
+    "https://anji0302.github.io/simple-games/styles.42d853adc479323176e9.css": "97b5d5509f9c94a3bd3b7426a3fce9bf7721fcae"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
